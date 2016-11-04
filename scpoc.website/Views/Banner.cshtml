@@ -1,0 +1,10 @@
+﻿@{
+    var datasourceId = RenderingContext.Current.Rendering.DataSource;
+    var ds = Sitecore.Context.Database.GetItem(datasourceId, Sitecore.Context.Language);
+    Sitecore.Resources.Media.MediaUrlOptions option = new Sitecore.Resources.Media.MediaUrlOptions { AlwaysIncludeServerUrl = true };
+    var url = Sitecore.Resources.Media.MediaManager.GetMediaUrl(ds, option);
+}
+
+<div style="background-image:url(@url); height:500px;">
+        @Html.Sitecore().Placeholder("banner")
+</div>

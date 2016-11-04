@@ -1,0 +1,5 @@
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.services\bin\Debug\scpoc.services.dll
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.services\bin\Debug\scpoc.services.pdb
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.services\obj\Debug\scpoc.services.csprojResolveAssemblyReference.cache
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.services\obj\Debug\scpoc.services.dll
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.services\obj\Debug\scpoc.services.pdb

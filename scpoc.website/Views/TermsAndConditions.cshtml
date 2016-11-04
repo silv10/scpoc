@@ -1,0 +1,7 @@
+﻿@{ 
+    string datasourceId = RenderingContext.Current.Rendering.DataSource;
+    var ds = Sitecore.Context.Database.GetItem(datasourceId, Sitecore.Context.Language);
+    string tandc = ds.Fields["Terms and conditions"].Value;
+}
+
+<div>@tandc</div>

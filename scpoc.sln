@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scpoc.website", "scpoc.website\scpoc.website.csproj", "{2BCD7F81-89E9-4738-A75E-EB8769884842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scpoc.services", "scpoc.services\scpoc.services.csproj", "{E171D909-C1C2-4FA0-8E09-DF1BDB021FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scpoc.data", "scpoc.data\scpoc.data.csproj", "{FA59A615-FA1E-4E77-BC07-F9772BDF7EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCD7F81-89E9-4738-A75E-EB8769884842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCD7F81-89E9-4738-A75E-EB8769884842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCD7F81-89E9-4738-A75E-EB8769884842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCD7F81-89E9-4738-A75E-EB8769884842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E171D909-C1C2-4FA0-8E09-DF1BDB021FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E171D909-C1C2-4FA0-8E09-DF1BDB021FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E171D909-C1C2-4FA0-8E09-DF1BDB021FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E171D909-C1C2-4FA0-8E09-DF1BDB021FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA59A615-FA1E-4E77-BC07-F9772BDF7EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA59A615-FA1E-4E77-BC07-F9772BDF7EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA59A615-FA1E-4E77-BC07-F9772BDF7EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA59A615-FA1E-4E77-BC07-F9772BDF7EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

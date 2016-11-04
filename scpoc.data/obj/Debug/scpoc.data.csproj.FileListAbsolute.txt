@@ -1,0 +1,7 @@
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\bin\Debug\scpoc.data.dll
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\bin\Debug\scpoc.data.pdb
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\obj\Debug\scpoc.data.csprojResolveAssemblyReference.cache
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\obj\Debug\scpoc.data.dll
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\obj\Debug\scpoc.data.pdb
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\bin\Debug\Sitecore.Kernel.dll
+C:\Users\SilvioM\Documents\Projects\scpoc\scpoc.data\bin\Debug\Newtonsoft.Json.dll
